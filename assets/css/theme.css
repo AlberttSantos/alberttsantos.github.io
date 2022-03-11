@@ -1693,7 +1693,7 @@ body:not(.tt-boxed) .page-header-inner,
 @media (max-width: 540px) {
 	body.ph-image-on #page-header:not(.project-info-list-on) .page-header-inner {
 		padding-top: 240px;
-		padding-bottom: 40vw;
+		padding-bottom: 10vw;
 	}
 }
 

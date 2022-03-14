@@ -1692,7 +1692,7 @@ body:not(.tt-boxed) .page-header-inner,
 }
 @media (max-width: 540px) {
 	body.ph-image-on #page-header:not(.project-info-list-on) .page-header-inner {
-		padding-top: 240px;
+		padding-top: 140px;
 		padding-bottom: 10vw;
 	}
 }
@@ -8653,7 +8653,7 @@ body.tt-boxed .blog-single-inner.tt-wrap {
 #tt-footer {
 	position: relative;
 	width: 100%;
-	font-size: 12px;
+	font-size: 14px;
 	z-index: 2;
 }
 

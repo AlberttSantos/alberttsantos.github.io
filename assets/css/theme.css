@@ -1813,7 +1813,7 @@ body:not(.tt-boxed) .page-header-inner,
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	object-fit: cover;
+	object-fit: contain;
 	object-position: 50% 50%;
 }
 

@@ -782,7 +782,7 @@ body:not(.tt-boxed) .tt-header-inner,
 		top: 20px;
 	}
 	.tt-logo img {
-		max-height: 50px; /* You may need to change the img height to match your logo type! */
+		max-height: 60px; /* You may need to change the img height to match your logo type! */
 	}
 }
 
